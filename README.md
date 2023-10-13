@@ -6,7 +6,7 @@ Neste repositório, você encontrará os slides e materiais das palestras que re
 
 ## 🚀 Lista de Palestras
 
-- [ChatGPT na Educação - Transformando a Aprendizagem em Conversa](#) - Insira aqui o link para os slides e outros recursos relacionados a esta palestra.
+- [ChatGPT na Educação - Transformando a Aprendizagem em Conversa](https://github.com/prisantos/talks/tree/main/cpa2023) - Insira aqui o link para os slides e outros recursos relacionados a esta palestra.
 
 ---
 
