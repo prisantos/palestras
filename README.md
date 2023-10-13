@@ -1,12 +1,13 @@
-# Campus Party Amazônia - 2023
+# Talks
 
-Bem-vindo(a) 🥰.
+Seja bem-vindo(a) 🥰!
 
-Slides e Material das minhas talks.
+Neste repositório, você encontrará os slides e materiais das palestras que realizei.
 
-## 🚀 Talks
+## 🚀 Lista de Palestras
 
-* [ChatGPT na Educação - Transformando Aprendizado em Conversa]()
+- [ChatGPT na Educação - Transformando a Aprendizagem em Conversa](#) - Insira aqui o link para os slides e outros recursos relacionados a esta palestra.
 
 ---
-⌨️ com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
+
+⌨️ Desenvolvido com ❤️ por [Armstrong Lohãns](https://gist.github.com/lohhans) 😊
